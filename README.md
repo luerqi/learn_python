@@ -1,2 +1,4 @@
 # learn_python
-Python练习
+##dict和get
+
+  
